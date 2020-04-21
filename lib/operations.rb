@@ -7,7 +7,7 @@ def unsafe?(speed)
    return false
 end
 
-unsafe?(speed)
+#unsafe?(speed)
 
 def not_safe?(speed)
 	
